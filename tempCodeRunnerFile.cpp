@@ -1,0 +1,1 @@
+int k = min(x,y,z) ;
